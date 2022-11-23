@@ -92,7 +92,7 @@ function Login() {
 				</button>
 			</form>
 			<p>
-				Not a memeber?{" "}
+				Not a member?{" "}
 				<span className="login__register" onClick={register}>
 					Register Now
 				</span>
